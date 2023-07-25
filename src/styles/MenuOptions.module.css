@@ -1,0 +1,19 @@
+.menu_option {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 80px;
+}
+
+.menu_option h2 {
+  font-size: 4em;
+  margin: 55px 0 35px 0;
+}
+
+.menu_items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0 100px;
+}

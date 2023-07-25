@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "welcome": "Welcome to Oishii!",
+    "authentic_japanese_food": "Authentic Japanese Food",
+    "most_popular_eatery_ny": "The most popular Japanese eatery in New York",
+    "here": "here",
+    "home": "home",
+    "menu": "menu",
+    "contact": "contact",
+    "download_our_app": "download our app",
+    "open_all_days": "open all days"
+  },
+  "Menu": {
+    "drinks": "drinks",
+    "appetizers": "appetizers",
+    "sushi": "sushi",
+    "noodle soups": "noodle soups",
+    "desserts": "desserts"
+  }
+}

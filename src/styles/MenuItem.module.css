@@ -1,0 +1,28 @@
+.menu_item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 310px;
+  width: 500px;
+  margin: 35px;
+  padding: 40px;
+  border-radius: 10px;
+  color: #fff;
+  font-family: "Lato";
+}
+
+.menu_item div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.menu_item span {
+  font-size: 3em;
+}
+
+.menu_item p {
+  padding-top: 15px;
+  font-size: 1.5em;
+}

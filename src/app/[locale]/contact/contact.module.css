@@ -1,0 +1,58 @@
+.flexContainer {
+  display: flex;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+  padding: 100px 50px;
+}
+
+.contactContainer {
+  font-family: "Lato";
+  width: 1300px;
+  margin: 0 auto;
+  padding: 100px 50px;
+}
+
+.contactContent {
+  justify-content: space-evenly;
+  font-weight: bold;
+}
+
+.contactContent p {
+  font-size: 2em;
+}
+
+.contactContent ul {
+  flex-direction: column;
+  padding-top: 25px;
+  padding-left: 50px;
+  list-style-type: none;
+}
+
+.contactContent ul li {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 3.5em;
+}
+
+.contactContent ul li p {
+  margin-left: 25px;
+}
+
+.contactContent img {
+  width: 24px;
+  height: 24px;
+}
+
+.googleMap {
+  overflow: hidden;
+  background: none !important;
+  height: 500px;
+  width: 600px;
+}
+
+.googleMap iframe {
+  border: solid 2px;
+}

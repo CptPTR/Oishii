@@ -1,0 +1,27 @@
+.menu_option_card {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  width: 275px;
+  background-blend-mode: overlay;
+  border-radius: 2px;
+  transition: transform ease-in-out 0.5s;
+}
+
+.menu_option_card a {
+  text-decoration: none;
+}
+
+.menu_option_card p {
+  color: #fff;
+  margin-top: 60px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.menu_option_card:hover {
+  outline: 3px solid white;
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+.bttContainer {
+  display: flex;
+  align-items: center;
+}
+
+.bttButton {
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+  border-radius: 25px;
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: #000;
+}
+
+.bttContainer p {
+  font-size: 2rem;
+}
+
+.visible {
+  display: none;
+}

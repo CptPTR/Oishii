@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "welcome": "Welcome bij Oishii!",
+    "authentic_japanese_food": "Authentiek Japans eten",
+    "most_popular_eatery_ny": "Het populairste Japanse eethuis in New York",
+    "here": "hier",
+    "home": "home",
+    "menu": "menu",
+    "contact": "contact",
+    "download_our_app": "download onze app",
+    "open_all_days": "alle dagen open"
+  },
+  "Menu": {
+    "drinks": "drank",
+    "appetizers": "voorgerechten",
+    "sushi": "sushi",
+    "noodle soups": "noedelsoepen",
+    "desserts": "desserts"
+  }
+}
